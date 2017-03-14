@@ -1,9 +1,9 @@
 {
-    "name": "overtrue/laravel-wechat",
+    "name": "caoyuanlianni/laravel-wechat",
     "description": "微信 SDK for Laravel",
     "keywords": ["wechat", "weixin","laravel", "sdk"],
     "require": {
-        "overtrue/wechat": "3.2.*"
+        "overtrue/wechat": "~3.2"
     },
     "autoload": {
         "psr-4": {
